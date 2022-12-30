@@ -1,0 +1,176 @@
+{
+    "name": "Birds",
+    "children": [
+        {
+            "name": "Large",
+            "children": [
+                {
+                    "name": "Canada goose",
+                    "value": "190"
+                },
+                {
+                    "name": "Coyote",
+                    "value": "26"
+                },
+                {
+                    "name": "Great blue heron",
+                    "value": "25"
+                },
+                {
+                    "name": "Turkey vulture",
+                    "value": "33"
+                },
+                {
+                    "name": "Unknown bird - large",
+                    "value": "436"
+                },
+                {
+                    "name": "White-tailed deer",
+                    "value": "34"
+                }
+            ]
+        },
+        {
+            "name": "Medium",
+            "children": [
+                {
+                    "name": "American crow",
+                    "value": "41"
+                },
+                {
+                    "name": "Herring gull",
+                    "value": "52"
+                },
+                {
+                    "name": "Mallard",
+                    "value": "63"
+                },
+                {
+                    "name": "Red-tailed hawk",
+                    "value": "100"
+                },
+                {
+                    "name": "Ring-billed gull",
+                    "value": "87"
+                },
+                {
+                    "name": "Short-eared owl",
+                    "value": "1"
+                },
+                {
+                    "name": "Unknown bird - medium",
+                    "value": "3372"
+                },
+                {
+                    "name": "Unknown bird or bat",
+                    "value": "629"
+                },
+                {
+                    "name": "Zebra dove",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "name": "Small",
+            "children": [
+                {
+                    "name": "American kestrel",
+                    "value": "83"
+                },
+                {
+                    "name": "American robin",
+                    "value": "62"
+                },
+                {
+                    "name": "Barn owl",
+                    "value": "47"
+                },
+                {
+                    "name": "Barn swallow",
+                    "value": "38"
+                },
+                {
+                    "name": "Blackbirds",
+                    "value": "10"
+                },
+                {
+                    "name": "Cattle egret",
+                    "value": "16"
+                },
+                {
+                    "name": "Chimney swift",
+                    "value": "7"
+                },
+                {
+                    "name": "Cliff swallow",
+                    "value": "13"
+                },
+                {
+                    "name": "Common nighthawk",
+                    "value": "6"
+                },
+                {
+                    "name": "Eastern meadowlark",
+                    "value": "30"
+                },
+                {
+                    "name": "European starling",
+                    "value": "319"
+                },
+                {
+                    "name": "Horned lark",
+                    "value": "22"
+                },
+                {
+                    "name": "Killdeer",
+                    "value": "64"
+                },
+                {
+                    "name": "Laughing gull",
+                    "value": "29"
+                },
+                {
+                    "name": "Meadowlarks",
+                    "value": "10"
+                },
+                {
+                    "name": "Mourning dove",
+                    "value": "217"
+                },
+                {
+                    "name": "Pacific golden-plover",
+                    "value": "65"
+                },
+                {
+                    "name": "Rock pigeon",
+                    "value": "232"
+                },
+                {
+                    "name": "Savannah sparrow",
+                    "value": "3"
+                },
+                {
+                    "name": "Short-eared owl",
+                    "value": "8"
+                },
+                {
+                    "name": "Tree swallow",
+                    "value": "14"
+                },
+                {
+                    "name": "Unknown bird - small",
+                    "value": "3572"
+                },
+                {
+                    "name": "Western meadowlark",
+                    "value": "19"
+                },
+                {
+                    "name": "Zebra dove",
+                    "value": "24"
+                }
+            ]
+        }
+    ]
+}
